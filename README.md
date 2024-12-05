@@ -56,8 +56,11 @@ Using grid() or pack() for structured placement of widgets.
 Modular design with separate functions for data validation, file handling, and GUI initialization.
 ________________________________________
 ## Use Cases:
+
 a). Collecting personal information in a small office or school.
+
 b).	Creating a simple registration form for events.
+
 c). Managing customer feedback or survey data.
 
 ![GUI](https://github.com/user-attachments/assets/558cafd8-9254-4c7c-92ce-c6eceb6a997f)
